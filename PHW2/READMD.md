@@ -10,12 +10,12 @@ Then, automatically make and run the models, and compare the clustered result wi
 
 **Parameters** :
 
-data : Dataframe, Refined original data, In this project the data is The California Housing Prices Dataset(California Housing Prices | Kaggle)
-encodings : List, various encoding functions list.
-scalers : List, various scaling functions list.
-features : List, that sets how many features to use in clustering.
-models : List, name of various clustering model list.
-parameter_s : List, various parameters for each clustering model.
+data : Dataframe, Refined original data, In this project the data is The California Housing Prices Dataset(California Housing Prices | Kaggle)   
+encodings : List, various encoding functions list.   
+scalers : List, various scaling functions list.   
+features : List, that sets how many features to use in clustering.    
+models : List, name of various clustering model list.   
+parameter_s : List, various parameters for each clustering model.   
 
 **Return** : None
 
