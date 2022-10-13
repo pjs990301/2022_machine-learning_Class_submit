@@ -4,9 +4,9 @@
 
 **Summary of the autoML function :**
 
-The ‘autoML’ function is making the clustering result about input parameters.
-Function get data and list of encoding, scaler function and number of using features name of clustering models and parameters corresponding to each models.
-Then, automatically make and run the models, and compare the clustered result with the answer label feature ‘median_house_value’.
+The ‘autoML’ function is making the clustering result about input parameters.   
+Function get data and list of encoding, scaler function and number of using features name of clustering models and parameters corresponding to each models.   
+Then, automatically make and run the models, and compare the clustered result with the answer label feature ‘median_house_value’.    
 
 **Parameters** :
 
